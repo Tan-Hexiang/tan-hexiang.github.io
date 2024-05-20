@@ -16,6 +16,6 @@ My research interests include:
 Publication
 ======
 
-- *Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?* (2024 Preprint)  <br>**Hexiang Tan**, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng  <br>[[website]](https://tan-hexiang.github.io/Blinded_by_Generated_Contexts/) [[arxiv]](https://arxiv.org/abs/2401.11911) [[pdf]](https://arxiv.org/pdf/2401.11911.pdf)
+- *Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?* (Accepted at ACL 2024 Main)  <br>**Hexiang Tan**, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng  <br>[[website]](https://tan-hexiang.github.io/Blinded_by_Generated_Contexts/) [[arxiv]](https://arxiv.org/abs/2401.11911) [[pdf]](https://arxiv.org/pdf/2401.11911.pdf)
 
 
