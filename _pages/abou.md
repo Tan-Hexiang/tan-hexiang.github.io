@@ -25,4 +25,6 @@ Publication
 - *Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?* (**ACL 2024 Main**)  <br>**Hexiang Tan**, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng  <br>[[website]](https://tan-hexiang.github.io/Blinded_by_Generated_Contexts/) [[acl2024]](https://aclanthology.org/2024.acl-long.337/) [[pdf]](https://aclanthology.org/2024.acl-long.337.pdf)
 - *Fact-Level Confidence Calibration and Self-Correction* (SIGIR 2025)  <br>Yige Yuan, Bingbing Xu, **Hexiang Tan**, Fei Sun, Teng Xiao, Wei Li, etc.  <br>[[arxiv]](https://arxiv.org/abs/2411.13343) 
 - *A Survey on LLM-as-a-Judge* (Preprint 2024)  <br>Jiawei Gu, Xuhui Jiang, Zhichao Shi, **Hexiang Tan**, Xuehao Zhai, etc. <br>[[arxiv]](https://arxiv.org/abs/2411.15594) 
-- *PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree* (NAACL 2025 Findings) <br> Xiang Li, Zhiyi Yin, *Hexiang Tan*, etc. <br> [[pdf]](https://aclanthology.org/2025.findings-naacl.464/)
+- *PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree* (Under Review 2024) <br>Xiang Li, Zhiyi yin, **Hexiang Tan**, Shaoling Jing, Du Su, Jie Zhang, Fei Sun, etc. <br>
+
+
