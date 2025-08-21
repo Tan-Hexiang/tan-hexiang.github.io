@@ -16,7 +16,7 @@ My research interests include:
 
 News
 ======
-- *2025.8*: Oue paper [Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs](https://arxiv.org/abs/2505.17656) accepted at EMNLP 2025 Main! 🎉 
+- *2025.8*: Our paper [Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs](https://arxiv.org/abs/2505.17656) accepted at **EMNLP 2025 Main**! 🎉 
 
 
 Publication
