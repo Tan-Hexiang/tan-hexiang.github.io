@@ -21,12 +21,12 @@ News
 
 Publication
 ======
-- [**EMNLP 2025 Main**]: *Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs*  <br> *Hexiang Tan*, Fei Sun, Sha Liu, etc. <br> [PDF](https://arxiv.org/abs/2505.17656)
-- [**ACL 2024 Main**]: *Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?* <br>**Hexiang Tan**, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng  <br>[[Website]](https://tan-hexiang.github.io/Blinded_by_Generated_Contexts/) [[ACL2024]](https://aclanthology.org/2024.acl-long.337/) [[PDF]](https://aclanthology.org/2024.acl-long.337.pdf)
-- [**Preprint 2024**] *A Survey on LLM-as-a-Judge* <br>Jiawei Gu, Xuhui Jiang, Zhichao Shi, **Hexiang Tan**, Xuehao Zhai, etc. <br>[[Arxiv]](https://arxiv.org/abs/2411.15594) 
-- [**SIGIR 2025**] *Fact-Level Confidence Calibration and Self-Correction*  <br>Yige Yuan, Bingbing Xu, **Hexiang Tan**, Fei Sun, Teng Xiao, Wei Li, etc.  <br>[[PDF]](https://arxiv.org/abs/2411.13343) 
-- [**NAACL 2025 Findings**] *PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree* <br>Xiang Li, Zhiyi yin, **Hexiang Tan**, Shaoling Jing, Du Su, Jie Zhang, Fei Sun, etc. <br>
-[[PDF]](https://aclanthology.org/2025.findings-naacl.464/)
+- [**EMNLP 2025 Main**] 📄*Too Consistent to Detect: A Study of Self-Consistent Errors in LLMs* <br> *Hexiang Tan*, Fei Sun, Sha Liu, etc. <br> 🔗[PDF](https://arxiv.org/abs/2505.17656)
+- [**ACL 2024 Main**] 📄*Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?* <br>**Hexiang Tan**, Fei Sun, Wanli Yang, Yuanzhuo Wang, Qi Cao, Xueqi Cheng <br> 🔗[[Website]](https://tan-hexiang.github.io/Blinded_by_Generated_Contexts/) [[ACL2024]](https://aclanthology.org/2024.acl-long.337/) [[PDF]](https://aclanthology.org/2024.acl-long.337.pdf)
+- [**Preprint 2024**] 📄*A Survey on LLM-as-a-Judge* <br>Jiawei Gu, Xuhui Jiang, Zhichao Shi, **Hexiang Tan**, Xuehao Zhai, etc. <br> 🔗[[Arxiv]](https://arxiv.org/abs/2411.15594) 
+- [**SIGIR 2025**] 📄*Fact-Level Confidence Calibration and Self-Correction*  <br>Yige Yuan, Bingbing Xu, **Hexiang Tan**, Fei Sun, Teng Xiao, Wei Li, etc. <br> 🔗[[PDF]](https://arxiv.org/abs/2411.13343) 
+- [**NAACL 2025 Findings**] 📄*PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree* <br>Xiang Li, Zhiyi yin, **Hexiang Tan**, Shaoling Jing, Du Su, Jie Zhang, Fei Sun, etc. <br>
+🔗[[PDF]](https://aclanthology.org/2025.findings-naacl.464/)
 
 
 
