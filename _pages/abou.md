@@ -26,7 +26,7 @@ Publication
 - [📄<span style="color:orangered;">**Preprint 2024**</span>] **A Survey on LLM-as-a-Judge**. Jiawei Gu, Xuhui Jiang, Zhichao Shi, **Hexiang Tan**, Xuehao Zhai, etc. <br> 🔗[[Arxiv]](https://arxiv.org/abs/2411.15594) 
 - [📄<span style="color:orangered;">**SIGIR 2025**</span>] **Fact-Level Confidence Calibration and Self-Correction**. Yige Yuan, Bingbing Xu, **Hexiang Tan**, Fei Sun, Teng Xiao, Wei Li, etc. <br> 🔗[[PDF]](https://arxiv.org/abs/2411.13343) 
 - [📄<span style="color:orangered;">**NAACL 2025 Findings**</span>] **PRDetect: Perturbation-Robust LLM-generated Text Detection Based on Syntax Tree**. Xiang Li, Zhiyi yin, **Hexiang Tan**, Shaoling Jing, Du Su, Jie Zhang, Fei Sun, etc. <br>
-🔗[[PDF]](https://aclanthology.org/2025.findings-naacl.464/) [[code]](https://github.com/thulx18/PRDetect)
+🔗[[PDF]](https://aclanthology.org/2025.findings-naacl.464/) [[Code]](https://github.com/thulx18/PRDetect)
 
 
 
